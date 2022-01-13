@@ -14,3 +14,9 @@ Screen1 As screen:
         Y: =314
         ZIndex: =2
 
+    Label4 As label:
+        Text: ="Label Minh"
+        X: =40
+        Y: =40
+        ZIndex: =3
+
