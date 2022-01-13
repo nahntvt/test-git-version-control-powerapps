@@ -8,3 +8,9 @@ Screen1 As screen:
         Y: =84
         ZIndex: =1
 
+    Label2 As label:
+        Text: ="Troi"
+        X: =375
+        Y: =202
+        ZIndex: =2
+
