@@ -2,7 +2,7 @@ Screen1 As screen:
 
     Label1 As label:
         Height: =118
-        Text: ="Minh ngu avacasc adadada"
+        Text: ="Khoa Ngu"
         Width: =406
         X: =375
         Y: =84
