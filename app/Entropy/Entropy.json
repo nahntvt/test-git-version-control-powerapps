@@ -6,7 +6,7 @@
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/13/2022 08:44:12",
+  "HeaderLastSavedDateTimeUTC": "01/13/2022 08:45:22",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -26,8 +26,12 @@
   "ResourcesJsonIndices": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0196783,
-    "ControlCount": {},
+    "AnalysisLoadTime": 0.0426962,
+    "ControlCount": {
+      "label": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.992156,
     "ErrorCount": 0
   }
 }
