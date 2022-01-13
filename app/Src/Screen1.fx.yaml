@@ -1,2 +1,10 @@
 Screen1 As screen:
 
+    Label1 As label:
+        Height: =174
+        Text: ="Minh ngu"
+        Width: =406
+        X: =351
+        Y: =192
+        ZIndex: =1
+
