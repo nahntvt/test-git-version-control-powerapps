@@ -1,56 +1,17 @@
 {
   "ComponentIndexes": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Gallery1": 7,
-    "galleryTemplate1": 8,
-    "Label1": 4,
-    "Label2": 6,
-    "NextArrow1": 12,
-    "Screen1": 3,
-    "Screen2": 5,
-    "Separator1": 13
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/13/2022 08:50:51",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 0
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "gallery": 1,
-    "icon": 2,
-    "label": 0,
-    "rectangle": 3
-  },
-  "PublishOrderIndices": {
-    "App": 0,
-    "Gallery1": 1,
-    "galleryTemplate1": 2,
-    "Label1": 0,
-    "Label2": 5,
-    "NextArrow1": 3,
-    "Screen1": 2,
-    "Screen2": 0,
-    "Separator1": 4
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0
-  },
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0215221,
-    "ControlCount": {
-      "label": 1,
-      "screen": 1
-    },
-    "DeserializationLoadTime": 0.5196774,
-    "ErrorCount": 0
-  }
+  "OrderXMLTemplate": {},
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
+  "TemplateVersions": {}
 }
