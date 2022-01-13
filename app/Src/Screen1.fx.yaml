@@ -14,3 +14,9 @@ Screen1 As screen:
         Y: =314
         ZIndex: =2
 
+    Label4 As label:
+        Text: ="Khoa them"
+        X: =843
+        Y: =207
+        ZIndex: =3
+
