@@ -16,7 +16,7 @@ Screen1 As screen:
 
     Label4 As label:
         Text: ="Label Minh"
-        X: =40
-        Y: =40
+        X: =784
+        Y: =107
         ZIndex: =3
 
